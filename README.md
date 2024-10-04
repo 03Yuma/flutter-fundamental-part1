@@ -60,4 +60,9 @@ hp dan android studio terhubung
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/02.png?raw=true)
 
 ## membuat text widget menambah logo
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/gambar.png?raw=true)
+
+#Praktikum 5
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P5.png?raw=true)
+
 
