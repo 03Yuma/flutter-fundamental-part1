@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/82fd0bc6-30aa-42dd-8864-afa13a1ca6bc)# Praktikum 1
+
+# Praktikum 1
 ## Langkah 1
 Membuat application project
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P1.L1.png?raw=true)
@@ -17,11 +18,11 @@ menghubungkan peranglkat android / emulator
 ## menggunakan usb
 setting hp (ketuk 7 kali nomer versi hp dan aktifkan usb debugging)
 
-![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/nover.png?raw=true)
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/nover.jpg?raw=true)
 
-![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/aktif.png?raw=true)
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/aktif.jpg?raw=true)
 
-setting anroid studio
+setting android studio
 
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/android.png?raw=true)
 
@@ -33,13 +34,30 @@ kemudian buka hp menuju option dan cari proses debug nirkabel lalu aktifkan
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/hp.jpg?raw=true)
 
 setelah itu barcode yang ada pada andorid studio discan
-![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/scan.png?raw=true)
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/scan.jpg?raw=true)
 
 hp dan android studio terhubung
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/acc.png?raw=true)
 
+# Praktikum 3
 
+## membuat repo baru pada akun git
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/akunbaru.png?raw=true)
 
+## push gitignore dan readme
 
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/gitnore.png?raw=true)
 
+##push semua
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/semua.png?raw=true)
+
+## mengubah teks menjadi nama panjang
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/01.png?raw=true)
+
+# Praktikum 4
+
+## membuat text widget mengubah text dengan nama
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/02.png?raw=true)
+
+## membuat text widget menambah logo
+
