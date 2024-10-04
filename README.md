@@ -39,8 +39,8 @@ setelah itu barcode yang ada pada andorid studio discan
 hp dan android studio terhubung
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/acc.png?raw=true)
 
+# Praktikum 3
 
-![image](https://github.com/user-attachments/assets/82fd0bc6-30aa-42dd-8864-afa13a1ca6bc)
 
 
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/02.png?raw=true)
