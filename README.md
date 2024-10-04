@@ -42,6 +42,14 @@ hp dan android studio terhubung
 # Praktikum 3
 
 ## membuat repo baru pada akun git
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/akunbaru.png?raw=true)
 
+## push gitignore dan readme
 
-![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/02.png?raw=true)
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/gitnore.png?raw=true)
+
+##push semua
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/semua.png?raw=true)
+
+## mengubah teks menjadi nama panjang
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/01.png?raw=true)
