@@ -1,21 +1,21 @@
 
-## Praktikum 1
-# Langkah 1
+# Praktikum 1
+## Langkah 1
 Membuat application project
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P1.L1.png?raw=true)
 
-# Langkah 2
+## Langkah 2
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P1L2.png?raw=true)
 
-# Langkah 3, 4
+## Langkah 3, 4
 membuat project flutter
 
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P1L4.png?raw=true)
 
-## Praktikum 2
+# Praktikum 2
 menghubungkan peranglkat android / emulator
 
-# menggunakan usb
+## menggunakan usb
 setting hp (ketuk 7 kali nomer versi hp dan aktifkan usb debugging)
 
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/nover.jpg?raw=true)
@@ -26,7 +26,7 @@ setting android studio
 
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/android.png?raw=true)
 
-# menggunakan wifi
+## menggunakan wifi
 pilih pair device using wifi, kemudian akan muncul barcode seperti berikut
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/barcode.png?raw=true)
 
