@@ -14,6 +14,22 @@ membuat project flutter
 # Praktikum 2
 menghubungkan peranglkat android / emulator
 
+## mencoba menggunakan usb
+
+## menggunakan wifi
+pilih pair device using wifi, kemudian akan muncul barcode seperti berikut
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/barcode.png?raw=true)
+
+kemudian buka hp menuju option dan cari proses debug nirkabel lalu aktifkan
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/hp.jpg?raw=true)
+
+setelah itu barcode yang ada pada andorid studio discan
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/scan.png?raw=true)
+
+hp dan android studio terhubung
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/acc.png?raw=true)
+
+
 
 
 
