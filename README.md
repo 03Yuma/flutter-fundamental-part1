@@ -53,3 +53,11 @@ hp dan android studio terhubung
 
 ## mengubah teks menjadi nama panjang
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/01.png?raw=true)
+
+# Praktikum 4
+
+## membuat text widget mengubah text dengan nama
+![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/02.png?raw=true)
+
+## membuat text widget menambah logo
+
