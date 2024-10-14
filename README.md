@@ -65,4 +65,4 @@ hp dan android studio terhubung
 # Praktikum 5
 ![alt text](https://github.com/03Yuma/flutter-fundamental-part1/blob/master/hello_world/images/P5.png?raw=true)
 
-
+link tugas https://github.com/03Yuma/flutter_application_1.git
